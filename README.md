@@ -69,3 +69,18 @@ We welcome contributions! Here's how you can help:
 7. Open a **Pull Request**.
 
 Please ensure your code follows project conventions and includes appropriate documentation or comments.
+
+Contributors :
+Madhesh
+Payel Mallick
+Alagunandhini
+Uvajanani
+Bala Karthikeya
+Shilpa
+Shiva Gurumurthy
+Sanjay Ramesh
+Dhanush
+Nikitha
+Deepika
+Monisha
+Vaishali Kadam
